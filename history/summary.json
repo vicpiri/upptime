@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 458,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "time": 505,
+    "timeDay": 505,
+    "timeWeek": 505,
+    "timeMonth": 505,
+    "timeYear": 505,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/xn--matriculacin-bib.marxadella.ddns.net",
     "slug": "matriculacion-marxadella",
     "status": "down",
-    "uptime": "1.42%",
-    "uptimeDay": "1.42%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "1.42%",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 0
+      "2022-02-05": 4
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 952,
-    "timeWeek": 952,
-    "timeMonth": 952,
-    "timeYear": 952,
+    "time": 972,
+    "timeDay": 972,
+    "timeWeek": 972,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {}
   }
 ]
