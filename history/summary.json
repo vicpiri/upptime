@@ -22,7 +22,7 @@
     "url": "https://marxadella.ddns.net",
     "icon": "https://favicons.githubusercontent.com/marxadella.ddns.net",
     "slug": "matriculacion-marxadella",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1027,
     "timeMonth": 1027,
     "timeYear": 1027,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   },
   {
     "name": "Marxadella.com",
