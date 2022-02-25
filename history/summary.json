@@ -34,7 +34,7 @@
     "timeMonth": 1027,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2022-02-25": 281,
+      "2022-02-25": 292,
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
@@ -58,19 +58,19 @@
     "url": "https://marxadella.com",
     "icon": "https://favicons.githubusercontent.com/marxadella.com",
     "slug": "marxadella-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1838,
-    "timeDay": 1100,
-    "timeWeek": 2382,
-    "timeMonth": 1838,
-    "timeYear": 1838,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1898,
+    "timeDay": 2187,
+    "timeWeek": 2494,
+    "timeMonth": 1898,
+    "timeYear": 1898,
     "dailyMinutesDown": {
-      "2022-02-25": 0
+      "2022-02-25": 11
     }
   },
   {
