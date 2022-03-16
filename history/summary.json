@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/marxadella.ddns.net",
     "slug": "matriculacion-marxadella",
     "status": "down",
-    "uptime": "9.32%",
+    "uptime": "9.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "9.32%",
+    "uptimeYear": "9.10%",
     "time": 1027,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2022-03-16": 32,
+      "2022-03-16": 1349,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
@@ -77,7 +77,7 @@
     "url": "https://marxadella.com",
     "icon": "https://favicons.githubusercontent.com/marxadella.com",
     "slug": "marxadella-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -88,7 +88,9 @@
     "timeWeek": 2741,
     "timeMonth": 2651,
     "timeYear": 2260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-16": 0
+    }
   },
   {
     "name": "Mas que foto",
