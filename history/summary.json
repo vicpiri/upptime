@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/moon-brain.com",
     "slug": "moon-brain",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.62%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.92%",
     "time": 538,
     "timeDay": 551,
     "timeWeek": 555,
     "timeMonth": 570,
     "timeYear": 538,
     "dailyMinutesDown": {
-      "2022-06-13": 1,
+      "2022-06-14": 47,
+      "2022-06-13": 16,
       "2022-04-20": 83
     }
   },
@@ -37,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2022-06-13": 1425,
+      "2022-06-14": 47,
+      "2022-06-13": 1440,
       "2022-06-12": 1440,
       "2022-06-11": 1440,
       "2022-06-10": 1440,
@@ -202,18 +204,19 @@
     "icon": "https://favicons.githubusercontent.com/masquefoto.net",
     "slug": "mas-que-foto",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
     "time": 392,
     "timeDay": 446,
     "timeWeek": 395,
     "timeMonth": 415,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-14": 47,
+      "2022-06-13": 15
     }
   }
 ]
