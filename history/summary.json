@@ -4,10 +4,10 @@
     "url": "https://moon-brain.com",
     "icon": "https://icons.duckduckgo.com/ip3/moon-brain.com.ico",
     "slug": "moon-brain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 564,
@@ -16,6 +16,7 @@
     "timeMonth": 545,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-06-14": 124,
       "2022-06-13": 16,
       "2022-04-20": 83
@@ -38,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2023-01-25": 37,
+      "2023-01-25": 519,
       "2023-01-24": 1440,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
@@ -444,9 +445,9 @@
     "url": "https://masquefoto.net",
     "icon": "https://icons.duckduckgo.com/ip3/masquefoto.net.ico",
     "slug": "mas-que-foto",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -456,6 +457,7 @@
     "timeMonth": 395,
     "timeYear": 402,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-06-14": 124,
       "2022-06-13": 15
     }
