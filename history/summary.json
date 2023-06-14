@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 563,
-    "timeDay": 430,
-    "timeWeek": 568,
-    "timeMonth": 562,
+    "timeDay": 683,
+    "timeWeek": 588,
+    "timeMonth": 565,
     "timeYear": 572,
-    "dailyMinutesDown": {
-      "2022-06-14": 124
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Matriculación Marxadella",
@@ -36,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-13": 41,
+      "2023-06-14": 39,
+      "2023-06-13": 1440,
       "2023-06-12": 1440,
       "2023-06-11": 1440,
       "2023-06-10": 1440,
@@ -399,8 +398,7 @@
       "2022-06-18": 1440,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
-      "2022-06-15": 1440,
-      "2022-06-14": 1440
+      "2022-06-15": 1440
     }
   },
   {
@@ -415,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 2497,
-    "timeDay": 206,
-    "timeWeek": 600,
-    "timeMonth": 867,
-    "timeYear": 1966,
+    "timeDay": 1231,
+    "timeWeek": 635,
+    "timeMonth": 896,
+    "timeYear": 1972,
     "dailyMinutesDown": {
       "2022-12-14": 20,
       "2022-10-21": 82,
@@ -448,14 +446,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 424,
-    "timeDay": 337,
-    "timeWeek": 416,
-    "timeMonth": 414,
+    "timeDay": 521,
+    "timeWeek": 431,
+    "timeMonth": 417,
     "timeYear": 435,
-    "dailyMinutesDown": {
-      "2022-06-14": 124
-    }
+    "dailyMinutesDown": {}
   }
 ]
