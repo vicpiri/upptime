@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 565,
-    "timeDay": 723,
-    "timeWeek": 499,
-    "timeMonth": 575,
-    "timeYear": 566,
+    "timeDay": 547,
+    "timeWeek": 508,
+    "timeMonth": 571,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2023-08-09": 16
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/marxadella.ddns.net.ico",
     "slug": "matriculacion-marxadella",
     "status": "down",
-    "uptime": "0.42%",
+    "uptime": "0.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-12": 37,
+      "2024-06-13": 37,
+      "2024-06-12": 1440,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
@@ -399,8 +400,7 @@
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
-      "2023-06-15": 1440,
-      "2023-06-14": 1440
+      "2023-06-15": 1440
     }
   },
   {
@@ -414,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1121,
-    "timeDay": 484,
-    "timeWeek": 945,
-    "timeMonth": 1105,
-    "timeYear": 1093,
+    "time": 1120,
+    "timeDay": 1529,
+    "timeWeek": 939,
+    "timeMonth": 1104,
+    "timeYear": 1096,
     "dailyMinutesDown": {
       "2023-12-23": 15,
       "2023-09-24": 19
@@ -436,9 +436,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 551,
-    "timeWeek": 369,
-    "timeMonth": 422,
+    "timeDay": 379,
+    "timeWeek": 379,
+    "timeMonth": 418,
     "timeYear": 413,
     "dailyMinutesDown": {}
   }
