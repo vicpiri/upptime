@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 621,
-    "timeWeek": 662,
-    "timeMonth": 623,
+    "timeDay": 631,
+    "timeWeek": 681,
+    "timeMonth": 621,
     "timeYear": 627,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 77,
+      "2026-02-14": 69,
+      "2026-02-13": 1440,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -397,8 +398,7 @@
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
-      "2025-02-15": 1440,
-      "2025-02-14": 1440
+      "2025-02-15": 1440
     }
   },
   {
@@ -408,14 +408,14 @@
     "slug": "marxadella-com",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "96.19%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.73%",
-    "uptimeMonth": "92.08%",
+    "uptimeMonth": "92.71%",
     "uptimeYear": "99.31%",
-    "time": 2212,
-    "timeDay": 1389,
-    "timeWeek": 1344,
-    "timeMonth": 2078,
+    "time": 2211,
+    "timeDay": 929,
+    "timeWeek": 1358,
+    "timeMonth": 1989,
     "timeYear": 2373,
     "dailyMinutesDown": {
       "2026-02-12": 55,
@@ -452,10 +452,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 406,
-    "timeWeek": 494,
-    "timeMonth": 471,
+    "time": 457,
+    "timeDay": 447,
+    "timeWeek": 502,
+    "timeMonth": 469,
     "timeYear": 472,
     "dailyMinutesDown": {}
   }
