@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 521,
-    "timeWeek": 607,
+    "time": 627,
+    "timeDay": 631,
+    "timeWeek": 586,
     "timeMonth": 652,
     "timeYear": 634,
     "dailyMinutesDown": {}
@@ -26,7 +26,7 @@
     "uptime": "0.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 123,
+      "2026-05-31": 150,
+      "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
@@ -397,8 +398,7 @@
       "2025-06-04": 1440,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
-      "2025-06-01": 1440,
-      "2025-05-31": 1440
+      "2025-06-01": 1440
     }
   },
   {
@@ -407,16 +407,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/marxadella.com.ico",
     "slug": "marxadella-com",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.12%",
     "time": 2128,
-    "timeDay": 177,
-    "timeWeek": 811,
-    "timeMonth": 1265,
-    "timeYear": 2343,
+    "timeDay": 1119,
+    "timeWeek": 795,
+    "timeMonth": 1261,
+    "timeYear": 2342,
     "dailyMinutesDown": {
       "2026-01-15": 129,
       "2026-01-16": 129,
@@ -468,9 +468,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 466,
-    "timeDay": 384,
-    "timeWeek": 453,
-    "timeMonth": 456,
+    "timeDay": 471,
+    "timeWeek": 446,
+    "timeMonth": 457,
     "timeYear": 470,
     "dailyMinutesDown": {}
   }
